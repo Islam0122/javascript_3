@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+section {
+    height: 1000px;
+    border: 1px solid red;
+    margin: 10px;
+}
